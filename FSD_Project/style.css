@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    margin-left: 37%;
+    margin-right: 37%;
+    margin-top: 1%;
+    height: 700px;
+    border: solid 10px black;
+    background-color:white;
+    border-radius: 70px 70px 90px 90px;
+}
+.head{
+    display: flex;
+    margin: 30px;
+    justify-content: space-between;
+}
+.ig{
+    font-family: 'Cookie', cursive;
+    font-size: 50px;
+}
+.logo{
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+}
+button{
+    padding: 1px;
+    background-color: transparent;
+    border: none;
+}
+.head3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.head4{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+.story{
+    border: solid 3px rgb(247, 0, 255);
+    border-radius: 40px;
+    padding:3px;
+    height: 70px;
+    width: 70px;
+    background: linear-gradient( rgba(245, 241, 8, 0.692) , red );
+}
+.mystory{
+    border: solid 3px rgba(75, 73, 73, 0.205);
+    border-radius: 40px;
+    padding: 5px;
+    height: 70px;
+    width: 70px;
+}
+p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+     Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     font-size: small;
+}
+.main{
+    border-top: solid 2px rgba(75, 73, 73, 0.205);
+}
+.main2{
+    display: flex;
+}
+.icon{
+    height: 55px;
+    width: 55px;
+    margin: 10px;
+}
+.name{
+    margin-top: 20px;
+    font-size: large;
+}
+.more{
+    height: 25px;
+    width: 25px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.post{
+    width: 250px;
+    height: 270px;
+    margin-left: 60px;
+}
+.main3{
+    background-color: black;
+}
+.main4{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+}
+.main5{
+    display:flex;
+    justify-content: space-evenly;
+}
+.emoji{
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.nav{
+    height: 30px;
+    width: 30px;
+}
+.profile{
+    border-radius: 15px;
+}
